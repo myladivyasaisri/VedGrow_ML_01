@@ -12,3 +12,5 @@ This repository contains a beginner-level Machine Learning project to classify I
 ## How to Run
 1. Install requirements: `pip install -r requirements.txt`
 2. Open the notebook in VS Code and run all cells.
+## Author
+**MYLA DIVYA SAI SRI**
